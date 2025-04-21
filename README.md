@@ -1,5 +1,5 @@
 ## How to run
 
 ```
-Python agent.py
+python agent.py
 ```
